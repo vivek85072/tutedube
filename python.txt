@@ -1,0 +1,3 @@
+python text file.
+writing code in python.
+Because file handling is simple and powerful with Python!
